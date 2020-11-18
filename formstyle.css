@@ -52,7 +52,7 @@
     backface-visibility: hidden;
     animation: slideBg 10s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url(/images/joinus8.jpg);
+    background-image: url(./images/joinus8.jpg);
     animation-iteration-count: infinite;
     animation-fill-mode: both;  
     margin-bottom: 50px;  
@@ -64,32 +64,32 @@
 
     0%
     {
-        background-image: url(/images/joinus2.jpg);
+        background-image: url(./images/joinus2.jpg);
     }
     14.2%
     {
-        background-image: url(/images/joinus3.jpg);
+        background-image: url(./images/joinus3.jpg);
         
     }
 
     28.5%
     {
-        background-image: url(/images/joinus4.jpg);
+        background-image: url(./images/joinus4.jpg);
         
     }
     57.1%
     {
-        background-image: url(/images/joinus5.jpg);
+        background-image: url(./images/joinus5.jpg);
         
     }
     114.2%
     {
-        background-image: url(/images/joinus6.jpg);
+        background-image: url(./images/joinus6.jpg);
         
     }
     228.5%
     {
-        background-image: url(/images/joinus7.jpg);
+        background-image: url(./images/joinus7.jpg);
 
     }
 }
