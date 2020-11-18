@@ -8,7 +8,7 @@
     backface-visibility: hidden;
     animation: slideBg 10s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url(/images/nu1.jpg);
+    background-image: url(./images/nu1.jpg);
     animation-iteration-count: infinite;
     animation-fill-mode: both;  
     margin-bottom: 50px;  
@@ -20,27 +20,27 @@
 
     0%
     {
-        background-image: url(/images/nu2.jpg);
+        background-image: url(./images/nu2.jpg);
     }
     16.6%
     {
-        background-image: url(/images/nu3.jpg);
+        background-image: url(./images/nu3.jpg);
         
     }
 
     33.3%
     {
-        background-image: url(/images/nu4.jpg);
+        background-image: url(./images/nu4.jpg);
         
     }
     66.6%
     {
-        background-image: url(/images/nu5.jpg);
+        background-image: url(./images/nu5.jpg);
         
     }
     133.3%
     {
-        background-image: url(/images/nu6.jpg);
+        background-image: url(./images/nu6.jpg);
         
     }
     
@@ -57,7 +57,7 @@
     backface-visibility: hidden;
     animation: slideBg1 10s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url(/images/nu11.jpg);
+    background-image: url(./images/nu11.jpg);
     animation-iteration-count: infinite;
     animation-fill-mode: both;  
     margin-bottom: 50px;  
@@ -69,27 +69,27 @@
 
     0%
     {
-        background-image: url(/images/nu22.jpg);
+        background-image: url(./images/nu22.jpg);
     }
     16.6%
     {
-        background-image: url(/images/nu33.jpg);
+        background-image: url(./images/nu33.jpg);
         
     } 
 
     33.3%
     {
-        background-image: url(/images/nu44.jpg);
+        background-image: url(./images/nu44.jpg);
         
     }
     66.6%
     {
-        background-image: url(/images/nu55.jpg);
+        background-image: url(./images/nu55.jpg);
         
     }
     133.3%
     {
-        background-image: url(/images/nu66.jpg);
+        background-image: url(./images/nu66.jpg);
         
     }
     
@@ -106,7 +106,7 @@
     backface-visibility: hidden;
     animation: slideBg2 10s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url(/images/nu111.jpg);
+    background-image: url(./images/nu111.jpg);
     animation-iteration-count: infinite;
     animation-fill-mode: both;  
     margin-bottom: 50px;  
@@ -118,16 +118,16 @@
 
     0%
     {
-        background-image: url(/images/nu111.jpg);
+        background-image: url(./images/nu111.jpg);
     }
     25%
     {
-        background-image: url(/images/nu222.jpg);
+        background-image: url(./images/nu222.jpg);
         
     } 
     50%
     {
-        background-image: url(/images/nu333.jpg);
+        background-image: url(./images/nu333.jpg);
         
     } 
     /* 100%
