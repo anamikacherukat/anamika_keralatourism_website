@@ -22,7 +22,7 @@
     backface-visibility: hidden;
     animation: slideBg 15s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url(/images/signin3.jpg);
+    background-image: url(./images/signin3.jpg);
     animation-iteration-count: infinite;
     animation-fill-mode: both;  
     margin-bottom: 50px;  
@@ -34,34 +34,24 @@
 
     0%
     {
-        background-image: url(/images/signin3.jpg);
+        background-image: url(./images/signin3.jpg);
     }
     25%
     {
-        background-image: url(/images/signin1.jpg);
+        background-image: url(./images/signin1.jpg);
         
     }
 
     50%
     {
-        background-image: url(/images/signin2.jpg);
+        background-image: url(./images/signin2.jpg);
         
     }
     
     100%
     {
-        background-image: url(/images/signin5.webp);
+        background-image: url(./images/signin5.webp);
         
     }
     
 }
-/* .para
-{
-    animation: color-change 5s infinite;
-
-}
-@keyframes color-change{
-    0%{color: indigo;}
-    50%{color:blue;}
-    100%{color: crimson;}
-} */
