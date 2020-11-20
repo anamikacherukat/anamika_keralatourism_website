@@ -9,7 +9,7 @@ var img= document.getElementById("img");
 
   function validate()
   {
-     let regexp = /^([A-Za-z0-9\.-]+)@([A-Za-z0-9\-]+).([a-z]{2,3})(.[a-z]{2,3})?$/;
+     let regexp = /^([a-zA-Z0-9\.\-]+)@([a-zA-Z0-9\-]+)\.([a-z]{2,3})(\.[a-z]{2,3})?$/;
      var phoneno = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
      var pwdexp= /(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}/;
      
